@@ -6,10 +6,11 @@
 
 
 
-JavaScript, ReactJS com TypeScript, Redux, Jest
-Node com TypeScript, Express, TypeOrm e PostgresSQL e container
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+Skills:  JavaScript/ Node / TypeScript /ReactJS / Redux / Jest / Express / TypeOrm /PostgresSQL / Docker
+
+
 
 - 🔭 I’m currently working on this page. 
 - https://www.linkedin.com/pulse/primeiro-dashboard-reactjs-node-e-delphi-halisson-skalee/
