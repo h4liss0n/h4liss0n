@@ -8,7 +8,7 @@
 
 
 
-Skills:  JavaScript/ Node / TypeScript /ReactJS / Redux / Jest / Express / TypeOrm /PostgresSQL / Docker
+Skills:  JavaScript / Node / TypeScript /ReactJS / Redux / Jest / Express / TypeOrm /PostgresSQL / Docker
 
 
 
