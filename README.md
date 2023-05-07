@@ -14,6 +14,7 @@ Skills:  JavaScript / Node / TypeScript / ReactJS / Redux / Jest / Express / Typ
 - 🔭 challenge https://github.com/h4liss0n/softplan-dev
 - 🔭 challenge https://github.com/h4liss0n/react-categories-list/blob/main/README.md
 - 🔭 dashboar https://www.linkedin.com/pulse/primeiro-dashboard-reactjs-node-e-delphi-halisson-skalee/
+- 🔭 purchase https://github.com/h4liss0n/subscribe-platform
 
 
 
